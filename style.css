@@ -1,0 +1,71 @@
+body {
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+}
+.wrapper {
+  width: 23%;
+  margin: auto;
+  background-color: #fff;
+  padding: 48px 48px;
+  margin-top: 46px;
+}
+form {
+  padding: 12px;
+}
+.wrapper h1 {
+  text-align: center;
+  font-family: Lucida Hndwritting;
+}
+input {
+  width: 85%;
+  margin-top: 9px;
+  padding: 10px 9px;
+  background-color: #f4f4f4;
+  color: gray;
+  border: none;
+  border-radius: 5px;
+}
+.btn {
+  margin-top: 5%;
+  width: 77%;
+  padding: 5px 7px;
+  margin-left: 20px;
+  color: black;
+  background-color: #c4e0fb;
+  border: none;
+  border-radius: 8px;
+}
+.or {
+  text-align: center;
+  margin-right: 25px;
+  color: gray;
+  margin-top: 32px;
+}
+.fb {
+  text-align: center;
+  color: #426782;
+  font-weight: bold;
+  margin-left: -14px;
+}
+a {
+  text-decoration: none;
+}
+
+.forgot {
+  text-align: center;
+  padding: 1px;
+  margin-left: -10px;
+}
+.wrapper2 {
+  width: 23%;
+  margin: auto;
+  background-color: #fff;
+  margin: auto;
+  margin-top: 17px;
+  text-align: center;
+  padding: 1px 49px;
+}
+.signin {
+  color: #3a98f0;
+  font-weight: bold;
+}
